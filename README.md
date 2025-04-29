@@ -1,104 +1,94 @@
-# 👋 Amruta Naik
+<h1 align="center">Hi 👋, I'm Amruta Naik</h1>
+<h3 align="center">🚀 Data Engineer | OSS Telecom Analyst | Cloud Enthusiast</h3>
 
-**Aspiring Data Engineer | OSS Domain Specialist | Cloud Analytics Enthusiast**  
-📍 Boston, MA | naik.amr@northeastern.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183) | [GitHub](https://github.com/Amrutana)
-
----
-
-## 🚀 About Me
-
-I’m a graduate student at **Northeastern University**, pursuing a **Master’s in Information Systems** (Graduating Dec 2025), with a strong foundation in software testing and a career pivot into **data engineering**. Previously, I worked at **Amdocs** where I built scalable data pipelines and visualized telecom KPIs.
-
-I’m passionate about **ETL, big data**, and **cloud-based analytics** using tools like **ADF, Snowflake, and Power BI**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amrutana&label=Profile%20views&color=0e75b6&style=flat" alt="Amrutana" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
-
-- **Languages**: Python, SQL, Java, C++, PL/SQL  
-- **Data Engineering**: Azure Data Factory, Snowflake, Delta Lake, Spark, Kafka, Hadoop  
-- **Data Analytics**: Pandas, NumPy, Scikit-learn, Statistical Modeling, Data Profiling  
-- **Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-- **Databases**: Oracle, PostgreSQL, MongoDB, MySQL  
-- **Cloud & DevOps**: Azure, Databricks, Jenkins, Git, REST APIs  
-- **Domain Expertise**: OSS/BSS Systems, Telecom, Service Assurance  
-- **Tools**: Alteryx, JIRA, Postman, Agile/Scrum  
+### 📬 Connect with me
+<p align="left">
+  <a href="mailto:naik.amr@northeastern.edu"><img src="https://img.shields.io/badge/Email-naik.amr@northeastern.edu-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/amruta-naik-6a9091183"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Amrutana"><img src="https://img.shields.io/github/followers/Amrutana?label=GitHub&style=flat-square&logo=github"></a>
+</p>
 
 ---
 
-## 💼 Work Experience
+### 💼 About Me
 
-**Amdocs India**  
-*Data Engineer | July 2022 – Dec 2023*  
-- Automated 95% of ETL processes using Python & SQL  
-- Developed Power BI dashboards for OSS/BSS systems  
-- Integrated Jenkins CI/CD pipelines for data solutions
-
-*Associate Data Engineer | Feb 2021 – July 2022*  
-- Conducted end-to-end OSS data validation & analytics  
-- Designed telecom datasets for system monitoring & billing analysis
+- 🎓 Master's in Information Systems @ **Northeastern University** (Graduating Dec 2025)  
+- 👩‍💻 2.9+ years experience @ **Amdocs**, OSS domain, Python, SQL, Power BI  
+- 🌐 Passionate about **Data Engineering**, **ETL Pipelines**, **Cloud Integration**, and **Analytics**  
+- 🔭 Currently learning **Airflow**, **Web Scraping**, **Streaming with Kafka + Spark**  
+- 📈 Open to internships / co-ops / roles in **Data Engineering** & **Cloud Analytics**  
 
 ---
 
-## 📂 Featured Projects
+### 🧰 Tech Stack
 
-### 📌 [NYPD Crime Data Analysis](https://github.com/Amrutana/DADABI)
-**Tools**: Azure Data Factory, Alteryx, Snowflake, Power BI  
-- Built Snowflake star schema with NYC arrest data  
-- Created interactive Power BI dashboards for crime insights  
-- Developed ETL workflows using ADF and Alteryx
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,java,c,cpp,azure,snowflake,powershell,git,github,linux,py,postgres,oracle,hadoop,tableau,powerbi,spark" />
+</p>
 
 ---
 
-### 🌎 [Climate Impact on Global Crop Yields](https://github.com/Amrutana/Datascience)
-**Tools**: Python, Pandas, Matplotlib  
-- Analyzed 60+ years of climate-agriculture data  
-- Built multivariate regression models for yield prediction  
-- Visualized climate trends and crop responses
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrutana&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutana&theme=radical" width="48%"/>
+</p>
 
 ---
 
-### 🏪 [Store Management System](https://github.com/Amrutana/Store-Management-System)
-**Tools**: Oracle SQL, PL/SQL  
-- Designed optimized schema with triggers and indexes  
-- Implemented access control and generated analytical reports  
-- Delivered actionable sales and consumer behavior insights
+### 📂 Featured Projects
+
+#### 🔹 [NYPD Crime Data Analysis](https://github.com/Amrutana/DADABI)
+> ETL pipeline with ADF & Alteryx, Snowflake star schema, Power BI dashboards  
+> *Crime trends, geo-visuals, and arrest insights*
+
+#### 🌾 [Climate Impact on Crop Yields](https://github.com/Amrutana/Datascience)
+> 60+ years of data analyzed using Python & regression  
+> *Global agri-insights under climate change*
+
+#### 🏪 [Store Management System](https://github.com/Amrutana/Store-Management-System)
+> Oracle SQL project with triggers, indexing & reporting  
+> *Role-based DB access and analytics*
+
+#### 🍽️ **Food Inspection Dashboard – Chicago & Dallas**  
+> ADF + Snowflake + Power BI pipeline for food safety data  
+> *Medallion architecture, violation trends, facility risk*
+
+#### 🎬 **IMDb Movie Analytics Platform**  
+> Alteryx, Snowflake, ERD, Power BI — *massive TSV parsing & integration*  
+> *Genres, directors, ratings, regions, characters... all visualized!*
 
 ---
 
-### 🍽️ **Food Inspection Dashboard – Chicago & Dallas**  
-**Tools**: Azure Data Factory, Snowflake, Power BI, Medallion Architecture  
-- Unified and profiled city datasets using Alteryx and ADF  
-- Designed dimensional model & loaded stage and DW tables  
-- Created Power BI dashboards analyzing inspection outcomes, violation types, risk levels, and facility types
+### 📊 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-### 🎬 **IMDb Movie Analytics Platform**  
-**Tools**: ER/Studio, ADF, Snowflake, Alteryx, Power BI  
-- Designed integration schema from 7+ IMDb TSV files (cast, crew, episodes, ratings, regions)  
-- Unified data from `title.basics`, `name.basics`, `crew`, `akas`, `principals`, etc.  
-- Implemented medallion architecture and dimensional modeling in Snowflake  
-- Generated dashboards for:
-  - Genre & region-based trends  
-  - Top-rated movies by year  
-  - Episode analysis for non-movie titles  
-  - Cast and crew analytics (directors, writers, jobs, characters)  
+### 📌 My Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amrutana&theme=rogue" />
+</p>
 
 ---
 
-## 📈 What I’m Exploring Now
+### 🌱 Let's Collaborate
 
-- Building ETL pipelines using **Apache Airflow**  
-- **Web scraping** for real-time data ingestion  
-- Stream processing with **Kafka + Spark Structured Streaming**  
+If you’re working on data engineering, analytics, or open-source projects — let’s connect! I’m especially excited about:
+- Real-time data streaming (Kafka, Spark)
+- ELT/ETL pipelines using ADF/Snowflake
+- Automating dashboards & alerts in Power BI
 
 ---
 
-## 📬 Let’s Connect!
+_“Turning raw data into insights that matter.”_
 
-I’m open to **Data Engineering**, **Cloud Analytics**, and **ETL/ELT pipeline** roles.  
-Feel free to explore my [repos](https://github.com/Amrutana?tab=repositories) or message me to collaborate.
-
-> “Transforming raw data into real decisions — one pipeline at a time.”
