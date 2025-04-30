@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi, I'm Amruta Naik</h1>
-<h3 align="center">Data Engineer | OSS Telecom Analyst | Cloud Analytics Enthusiast</h3>
+<h3 align="center">Data Engineer | OSS Telecom Specialist | Cloud Analytics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amrutana&label=Profile%20Views&color=brightgreen&style=flat" alt="profile-views" />
+  <a href="https://github.com/Amrutana">
+    <img src="https://komarev.com/ghpvc/?username=Amrutana&label=Profile%20Views&color=brightgreen&style=flat" alt="profile-views" />
+  </a>
   <a href="https://github.com/Amrutana?tab=followers">
     <img src="https://img.shields.io/github/followers/Amrutana?label=Followers&style=flat&color=blue" alt="github-followers" />
   </a>
@@ -10,93 +12,103 @@
 
 ---
 
-### 💼 About Me
+### 💡 About Me
 
-🎓 Graduate Student @ **Northeastern University** — M.S. Information Systems (Dec 2025)  
-👩‍💻 2.9+ years experience at **Amdocs** as a Data Engineer in the OSS domain  
-🚀 Skilled in building **ETL pipelines**, **dimensional models**, and **interactive dashboards**  
-🌱 Currently exploring: **Airflow**, **web scraping**, **Kafka**, **Spark Structured Streaming**  
-📫 Reach me: naik.amr@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
-
----
-
-### 🧰 Tech Stack
-
-#### 👩‍💻 Programming & Scripting
-- ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-- ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-- ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333?style=flat&logo=oracle)
-- ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)
-- ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-
-#### 🧪 Data Engineering
-- ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-007FFF?style=flat&logo=microsoftazure)
-- ![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?style=flat&logo=snowflake)
-- ![Databricks](https://img.shields.io/badge/-Databricks-E36209?style=flat&logo=databricks)
-- ![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-1572B6?style=flat)
-- ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-FDEE21?style=flat&logo=apachespark)
-- ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka)
-
-#### 📊 Data Science & Analytics
-- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-- ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
-- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-- ![Alteryx](https://img.shields.io/badge/-Alteryx-0057FF?style=flat&logo=alteryx)
-
-#### 🧱 Databases
-- ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat&logo=oracle)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-- ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
-
-#### 📈 Visualization
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
-- ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
-
-#### ☁️ Cloud & DevOps
-- ![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+🎓 **M.S. in Information Systems** @ Northeastern University (Dec 2025)  
+💼 2.9 years as **Data Engineer** at Amdocs (OSS/BSS systems, telecom analytics)  
+🚀 Built ETL pipelines, automated workflows (ADF, Databricks, Jenkins), developed BI dashboards  
+🌱 Currently diving into: **Airflow**, **Web Scraping**, **Kafka**, **Spark Structured Streaming**  
+📫 naik.amr@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
 
 ---
 
-### 📂 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🔹 [NYPD Crime Data Analysis](https://github.com/Amrutana/DADABI)
-> ETL pipeline using ADF & Alteryx | Snowflake star schema | Power BI dashboards  
-> 📌 *Crime trends, geo-visuals, and arrest patterns*
+### 👩‍💻 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-#### 🌾 [Climate Impact on Global Crop Yields](https://github.com/Amrutana/Datascience)
-> 60+ years of climate data | Regression models in Python | Matplotlib insights  
-> 📌 *Analyzed temperature effects on agricultural output*
+### 🔧 Data Engineering & Big Data
+<p>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
-#### 🏪 [Store Management System](https://github.com/Amrutana/Store-Management-System)
-> Oracle SQL project | Triggers, indexing, role-based access  
-> 📌 *Sales analytics & customer behavior reporting*
+### 📊 Data Science & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alteryx-0057FF?style=for-the-badge&logo=alteryx&logoColor=white"/>
+</p>
 
-#### 🍽️ **Food Inspection Dashboard – Chicago & Dallas**
-> Azure Data Factory, Snowflake, Power BI | Medallion architecture  
-> 📌 *Analyzed inspection types, risk levels, facility trends, violations*
+### 🧱 Databases & Warehousing
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-#### 🎬 **IMDb Movie Analytics Platform**
-> ERD + Alteryx + Snowflake + Power BI | Integration of 7 large TSVs  
-> 📌 *Genre & region trends, episode ratings, cast/crew analysis*
+### 📈 Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrutana&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutana&theme=tokyonight" width="48%" />
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 Contribution Graph
+## 📂 Featured Projects
+
+### 🍽️ Food Inspection Analysis — [GitHub](#)
+> Snowflake, Databricks, ADF, Power BI  
+> 🔹 Built medallion architecture | cleaned data across two stages  
+> 🔹 Designed ER model and Power BI dashboards for inspections & risk trends
+
+### 🗽 NYPD Crime Data Analysis — [GitHub](https://github.com/Amrutana/DADABI)
+> Snowflake, ADF, Alteryx, Power BI  
+> 🔹 Star schema, ETL pipeline with data profiling  
+> 🔹 Interactive dashboards for crime hotspots & demographics
+
+### 🌾 Climate Impact on Global Crop Yields — [GitHub](https://github.com/Amrutana/Datascience)
+> Python, Pandas, Matplotlib  
+> 🔹 Analyzed 60+ years of climate data using regression modeling  
+> 🔹 Explored climate-agriculture impact via rich visualizations
+
+### 🏪 Store Management System — [GitHub](https://github.com/Amrutana/Store-Management-System)
+> Oracle SQL  
+> 🔹 OLTP database with indexing, triggers, and access control  
+> 🔹 Business insights via SQL-based reporting
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrutana&show_icons=true&theme=vue-dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Amrutana&theme=vue-dark" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amrutana&theme=react-dark" />
@@ -104,15 +116,15 @@
 
 ---
 
-### 🤝 Let's Collaborate
+## 🤝 Let’s Collaborate
 
 I’m open to collaborating on:
-- Data Engineering projects (ETL, ADF, Snowflake)
-- Cloud Analytics workflows
-- Open-source contributions in Python, Azure, or SQL pipelines
+- ⚙️ ELT/ETL pipelines (ADF, Databricks, Airflow)
+- 📊 Data modeling & visualization (Power BI, Tableau)
+- 🌐 Open-source analytics & cloud solutions
 
-📫 Feel free to connect or reach out — let’s build something impactful!
+📩 Feel free to connect — let’s build something impactful!
 
 ---
 
-_“Turning raw data into insights that matter.”_
+<p align="center"><i>“Turning raw data into insights that matter.”</i></p>
