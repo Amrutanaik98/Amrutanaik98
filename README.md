@@ -1,15 +1,15 @@
 # <div align="center">✨ Amruta Naik</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Data+Engineer;OSS+Telecom+Specialist;Cloud+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Data+Engineer;Data Scientists ;Cloud+Analytics+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Amrutana">
-    <img src="https://komarev.com/ghpvc/?username=Amrutana&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+    <img src="https://komarev.com/ghpvc/?username=Amrutanaik98&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile-views" />
   </a>
   <a href="https://github.com/Amrutana?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amrutana?style=for-the-badge&logo=github&labelColor=0D1117&color=0e75b6" alt="github-followers" />
+    <img src="https://img.shields.io/github/followers/Amrutanaik98?style=for-the-badge&logo=github&labelColor=0D1117&color=0e75b6" alt="github-followers" />
   </a>
 </div>
 
@@ -36,18 +36,18 @@
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrutana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" height="200em" />
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutana&theme=tokyonight&hide_border=true&background=0D1117" height="200em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=tokyonight&hide_border=true&background=0D1117" height="200em" />
 </div>
 
 <br>
 
 ## <div align="center">🛠️ Tech Stack</div>
 
-<div align="center">
+<div align="left">
   <h3>Programming Languages</h3>
 </div>
 
