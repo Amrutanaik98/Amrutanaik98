@@ -21,7 +21,7 @@
 
 ## <div align="center">💡 About Me</div>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **M.S. in Information Systems** @ Northeastern University (Dec 2025)  
 💼 2.9 years as **Data Engineer** at Amdocs (OSS/BSS systems)  
@@ -154,7 +154,7 @@
 
 <div align="left">
   <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
-    <h3 align="center">🍽️ Food Inspection Analysis</h3>
+    <h3 align="left">🍽️ Food Inspection Analysis</h3>
     <div align="left">
       <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Project 1 Logo"/>
