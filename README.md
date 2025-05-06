@@ -152,10 +152,10 @@
 
 ## <div align="center">📂 Featured Projects</div>
 
-<div align="center">
+<div align="left">
   <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
     <h3 align="center">🍽️ Food Inspection Analysis</h3>
-    <div align="center">
+    <div align="left">
       <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Project 1 Logo"/>
       </a>
@@ -172,8 +172,8 @@
   </div>
 
   <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
-    <h3 align="center">🗽 NYPD Crime Data Analysis</h3>
-    <div align="center">
+    <h3 align="left">🗽 NYPD Crime Data Analysis</h3>
+    <div align="left">
       <a href="https://github.com/Amrutana/DADABI" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Project 2 Logo"/>
       </a>
@@ -190,8 +190,8 @@
   </div>
 
   <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
-    <h3 align="center">🌾 Climate Impact on Global Crop Yields</h3>
-    <div align="center">
+    <h3 align="left">🌾 Climate Impact on Global Crop Yields</h3>
+    <div align="left">
       <a href="https://github.com/Amrutana/Datascience" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Project 3 Logo"/>
       </a>
@@ -208,8 +208,8 @@
   </div>
 
   <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
-    <h3 align="center">🏪 Store Management System</h3>
-    <div align="center">
+    <h3 align="left">🏪 Store Management System</h3>
+    <div align="left">
       <a href="https://github.com/Amrutana/Store-Management-System" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" alt="Project 4 Logo"/>
       </a>
@@ -232,13 +232,14 @@
 ## <div align="center">🤝 Let's Connect</div>
 
 <div align="center">
-  <a href="mailto:naik.amr@northeastern.edu">
+  <a href="mailto:naik.amr@northeastern.edu" 
+     href="mailto:amrutanaik9811@gmail.com" >
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/amruta-naik-6a9091183">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Amrutana">
+  <a href="https://github.com/Amrutanaik98">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
