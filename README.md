@@ -21,7 +21,7 @@
 
 ## <div align="center">💡 About Me</div>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **M.S. in Information Systems** @ Northeastern University (Dec 2025)  
 💼 2.9 years as **Data Engineer** at Amdocs (OSS/BSS systems)  
@@ -30,7 +30,6 @@
 📫 naik.amr@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
 
 > *"Turning raw data into insights that matter."*
-
 
 ## <div align="center">🛠️ Tech Stack</div>
 
@@ -154,80 +153,77 @@
 ## <div align="center">📂 Featured Projects</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🍽️ Food Inspection Analysis</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Project 1 Logo"/>
-          </a>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Snowflake, Databricks, ADF, Power BI</strong> - Built medallion architecture with data cleaning across two stages & created Power BI dashboards for inspections & risk trends</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🗽 NYPD Crime Data Analysis</h3>
-        <div align="center">
-          <a href="https://github.com/Amrutana/DADABI" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Project 2 Logo"/>
-          </a>
-          <p>
-            <a href="https://github.com/Amrutana/DADABI" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="https://github.com/Amrutana/DADABI" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Snowflake, ADF, Alteryx, Power BI</strong> - Implemented star schema & ETL pipeline with data profiling. Created interactive dashboards for crime hotspots & demographics</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌾 Climate Impact on Global Crop Yields</h3>
-        <div align="center">
-          <a href="https://github.com/Amrutana/Datascience" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Project 3 Logo"/>
-          </a>
-          <p>
-            <a href="https://github.com/Amrutana/Datascience" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="https://github.com/Amrutana/Datascience" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Python, Pandas, Matplotlib</strong> - Analyzed 60+ years of climate data using regression modeling & explored climate-agriculture impact via rich visualizations</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏪 Store Management System</h3>
-        <div align="center">
-          <a href="https://github.com/Amrutana/Store-Management-System" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" alt="Project 4 Logo"/>
-          </a>
-          <p>
-            <a href="https://github.com/Amrutana/Store-Management-System" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-            </a>
-            <a href="https://github.com/Amrutana/Store-Management-System" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Oracle SQL</strong> - OLTP database with indexing, triggers, and access control. Created business insights via SQL-based reporting</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
+    <h3 align="center">🍽️ Food Inspection Analysis</h3>
+    <div align="center">
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Project 1 Logo"/>
+      </a>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>Snowflake, Databricks, ADF, Power BI</strong> - Built medallion architecture with data cleaning across two stages & created Power BI dashboards for inspections & risk trends</p>
+    </div>
+  </div>
+
+  <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
+    <h3 align="center">🗽 NYPD Crime Data Analysis</h3>
+    <div align="center">
+      <a href="https://github.com/Amrutana/DADABI" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Project 2 Logo"/>
+      </a>
+      <p>
+        <a href="https://github.com/Amrutana/DADABI" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+        <a href="https://github.com/Amrutana/DADABI" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>Snowflake, ADF, Alteryx, Power BI</strong> - Implemented star schema & ETL pipeline with data profiling. Created interactive dashboards for crime hotspots & demographics</p>
+    </div>
+  </div>
+
+  <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
+    <h3 align="center">🌾 Climate Impact on Global Crop Yields</h3>
+    <div align="center">
+      <a href="https://github.com/Amrutana/Datascience" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Project 3 Logo"/>
+      </a>
+      <p>
+        <a href="https://github.com/Amrutana/Datascience" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+        <a href="https://github.com/Amrutana/Datascience" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>Python, Pandas, Matplotlib</strong> - Analyzed 60+ years of climate data using regression modeling & explored climate-agriculture impact via rich visualizations</p>
+    </div>
+  </div>
+
+  <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
+    <h3 align="center">🏪 Store Management System</h3>
+    <div align="center">
+      <a href="https://github.com/Amrutana/Store-Management-System" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" alt="Project 4 Logo"/>
+      </a>
+      <p>
+        <a href="https://github.com/Amrutana/Store-Management-System" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+        <a href="https://github.com/Amrutana/Store-Management-System" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-39d353?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>Oracle SQL</strong> - OLTP database with indexing, triggers, and access control. Created business insights via SQL-based reporting</p>
+    </div>
+  </div>
 </div>
 
 ## <div align="center">📈 Activity Graph</div>
