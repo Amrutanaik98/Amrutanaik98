@@ -1,7 +1,7 @@
 # <div align="center">💫 Amruta Naik</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=440&lines=Data+Engineer;OSS+Telecom+Specialist;Cloud+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=440&lines=Data+Engineer;Cloud+Analytics+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
