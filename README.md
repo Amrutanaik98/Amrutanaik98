@@ -1,22 +1,22 @@
 # <div align="center">💫 Amruta Naik</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=440&lines=Data+Engineer;Cloud+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=440&lines=Data+Engineer;Cloud+Analytics+Enthusiast;Data Scientists" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Amrutana">
-    <img src="https://komarev.com/ghpvc/?username=Amrutana&label=Profile%20Views&color=brightgreen&style=flat" alt="profile-views" />
+  <a href="https://github.com/Amrutanaik98">
+    <img src="https://komarev.com/ghpvc/?username=Amrutanaik98&label=Profile%20Views&color=brightgreen&style=flat" alt="profile-views" />
   </a>
-  <a href="https://github.com/Amrutana?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amrutana?label=Followers&style=flat&color=blue" alt="github-followers" />
+  <a href="https://github.com/Amrutanaik98?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=flat&color=blue" alt="github-followers" />
   </a>
 </div>
 
 ## <div align="center">📊 GitHub Stats</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrutana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutana&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
 ## <div align="center">💡 About Me</div>
@@ -174,7 +174,7 @@
   <div class="project-card" style="margin-bottom: 20px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; width: 80%;">
     <h3 align="left">🗽 NYPD Crime Data Analysis</h3>
     <div align="left">
-      <a href="https://github.com/Amrutana/DADABI" target="_blank">
+      <a href="https://github.com/Amrutanaik98/DADABI" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Project 2 Logo"/>
       </a>
       <p>
