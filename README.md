@@ -41,7 +41,7 @@
 
 ## 📂 **Featured Projects**
 
-### 🛫 [Flight Data Analysis (https://github.com/Amrutanaik98/Flight_Data_Analysis)
+### 🛫 [Flight Data Analysis](https://github.com/Amrutanaik98/Flight_Data_Analysis)
 - **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, DynamoDB, IAM, Lambda)
 - Developed an **end-to-end real-time data pipeline** to collect **live flight data** from the **AviationStack API**.  
  
