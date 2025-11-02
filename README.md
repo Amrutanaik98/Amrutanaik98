@@ -23,7 +23,6 @@
 💼 2.9 years as a **Data Engineer** at *Amdocs (OSS/BSS systems)*  
 🌐 Passionate about **building scalable data pipelines & cloud architectures**  
 🚀 Currently exploring: **Apache Airflow**, **Terraform**, **Spark**, **AWS S3**, **Streaming Pipelines**  
-💬 Advocate for **women in tech**, continuous learning & inclusive innovation  
 📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
 
 > *“Turning raw data into meaningful impact.”*
