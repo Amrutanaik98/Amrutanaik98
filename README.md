@@ -1,4 +1,4 @@
-## 🌸 **Amruta Naik**
+## 🌸 **Amruta Chandrakant Naik**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analyst;Data+Scientist" alt="Typing SVG" />
@@ -41,13 +41,10 @@
 
 ## 📂 **Featured Projects**
 
-### 🛫 [Flight Data Analysis (Airflow + Terraform + Spark + AWS + AviationStack)](https://github.com/Amrutanaik98/Flight_Data_Analysis)
-- **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, IAM) · Python · AviationStack API  
+### 🛫 [Flight Data Analysis (https://github.com/Amrutanaik98/Flight_Data_Analysis)
+- **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, DynamoDB, IAM, Lambda)
 - Developed an **end-to-end real-time data pipeline** to collect **live flight data** from the **AviationStack API**.  
-- Used **Airflow DAGs** to orchestrate ingestion, transformation, and storage workflows on AWS.  
-- Leveraged **Spark (PySpark)** for batch & distributed transformations on raw JSON flight data.  
-- Configured **Terraform** to automate infrastructure provisioning (S3 buckets, IAM roles, EC2 compute).  
-- Implemented **data validation & monitoring**, ensuring reliable ingestion of live flight status data.  
+ 
 
 ---
 
