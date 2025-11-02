@@ -14,13 +14,13 @@
 
 ## 💡 **About Me**
 
-<img align="right" alt="Coding Woman" width="250" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding Woman" width="260" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 🎓 **M.S. in Information Systems** @ *Northeastern University* (Expected Dec 2025)  
 💼 2.9 years as a **Data Engineer** at *Amdocs (OSS/BSS systems)*  
-🌐 Passionate about **building data solutions that empower decision-making**  
-🚀 Currently exploring: **Airflow**, **Kafka**, and **Spark Streaming**  
-💬 Believer in women in tech, lifelong learning, and community-driven growth  
+🌐 Passionate about **data architecture & analytics that drive business insight**  
+🚀 Currently exploring: **Apache Airflow**, **Kafka**, **Spark Streaming**, **Data Bricks Workflows**  
+💬 Advocate for **women in tech**, continuous learning & inclusive innovation  
 📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
 
 > *“Turning raw data into meaningful impact.”*
@@ -39,28 +39,38 @@
 ## 📂 **Featured Projects**
 
 ### 🍽️ [Food Inspection – Dallas & Chicago](https://github.com/Amrutanaik98/Food_Inspection-Dallas_Chicago_BusinessIntelligence)
-- **Tech:** Snowflake · Databricks · Azure Data Factory · Power BI  
-- Built a medallion architecture pipeline and dashboards for inspection trend analysis  
+- **Tech Stack:** Azure Data Factory · Databricks (Pyspark) · Snowflake · Power BI · Medallion Architecture · SQL  
+- Designed end-to-end ingestion → transformation → visualization pipeline showing inspection trends and risk patterns.
+
+---
 
 ### 🗽 [NYPD Crime Data Analysis](https://github.com/Amrutanaik98/NYPD_Data_Analysis)
-- **Tech:** Snowflake · ADF · Alteryx · Power BI  
-- Designed a star schema and visual dashboards for city crime patterns  
+- **Tech Stack:** Azure Data Factory · Snowflake · Alteryx · Power BI · Star Schema Design · SQL Joins & Views  
+- Built ELT pipeline for 5 M+ records and interactive dashboards to analyze crime distribution across boroughs.
+
+---
 
 ### 🌾 [Climate Impact on Global Crop Yields](https://github.com/Amrutanaik98/Climate_Impact_Analysis)
-- **Tech:** Python · Pandas · Matplotlib  
-- Regression-based study analyzing 60+ years of climate–agriculture data  
+- **Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn  
+- Performed regression analysis & correlation modeling on 60 years of climate-agriculture data.
+
+---
 
 ### 🏪 [Store Management System](https://github.com/Amrutanaik98/Store_Management_System)
-- **Tech:** Oracle SQL  
-- Designed an OLTP database with indexing, triggers, and security layers  
+- **Tech Stack:** Oracle SQL · PL/SQL · Triggers · Views · Sequences · Constraints · Access Control  
+- Built a normalized OLTP schema with referential integrity, procedures, and user roles for inventory management.
+
+---
 
 ### 🎓 [NEU Grade Calculator](https://github.com/Amrutanaik98/NEUGradeCalculator)
-- **Tech:** Java · JavaFX  
-- Developed GUI for GPA calculations using OOP principles  
+- **Tech Stack:** Java · JavaFX · OOP Design Patterns · FXML · SceneBuilder  
+- Developed a desktop app that calculates GPA & CGPA using dynamic grading logic and clean UI.
+
+---
 
 ### 🎬 [IMDb Business Intelligence](https://github.com/Amrutanaik98/IMDb_Business_Intelligence)
-- **Tech:** SQL · Power BI  
-- Created dashboards analyzing genres, ratings, and cast insights  
+- **Tech Stack:** SQL · Power BI · DAX · ETL · Data Modeling · KPI Dashboards  
+- Created BI dashboards highlighting trends in ratings, genres, and top actors/directors over time.
 
 ---
 
@@ -91,9 +101,9 @@
 <div align="center">
   <h3>✨ Areas I Love Collaborating On</h3>
   <p>
-    ⚙️ ETL / ELT Pipelines (ADF · Databricks · Airflow) <br>
-    📊 Data Modeling & Visualization (Power BI · Tableau) <br>
-    ☁️ Cloud Data Solutions (Azure · Snowflake)
+    ⚙️ ETL / ELT Pipelines (Azure Data Factory · Databricks · Airflow) <br>
+    📊 Data Modeling & Visualization (Power BI · Tableau · DAX) <br>
+    ☁️ Cloud Data Solutions (Azure · Snowflake · Synapse Analytics)
   </p>
   <p>🌸 *Empowering analytics through collaboration and curiosity.*</p>
 </div>
@@ -101,5 +111,4 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
-</div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=hori
