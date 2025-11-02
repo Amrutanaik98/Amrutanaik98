@@ -49,8 +49,14 @@
 ---
 
 ### 🍽️ [Food Inspection – Dallas & Chicago](https://github.com/Amrutanaik98/Food_Inspection-Dallas_Chicago_BusinessIntelligence)
-- **Tech Stack:** Azure Data Factory · Databricks (PySpark) · Snowflake · Power BI · Medallion Architecture · SQL  
+- **Tech Stack:** Azure Data Factory · Databricks (PySpark) · Snowflake · Power BI · Medallion Architecture · SQL   · Alteryx  ·Key Vaults 
 - Designed end-to-end ingestion → transformation → visualization pipeline showing inspection trends and risk patterns.
+
+---
+
+### 🎬 [IMDb Business Intelligence](https://github.com/Amrutanaik98/IMDb_Business_Intelligence)
+- **Tech Stack:** SQL · Power BI · DAX · ETL · Data Modeling · KPI Dashboards · Azure Data Factory · Snowflake · Alteryx 
+- Created BI dashboards highlighting trends in ratings, genres, and top actors/directors over time.
 
 ---
 
@@ -78,11 +84,7 @@
 
 ---
 
-### 🎬 [IMDb Business Intelligence](https://github.com/Amrutanaik98/IMDb_Business_Intelligence)
-- **Tech Stack:** SQL · Power BI · DAX · ETL · Data Modeling · KPI Dashboards  
-- Created BI dashboards highlighting trends in ratings, genres, and top actors/directors over time.
 
----
 
 ## 📈 **Activity Graph**
 
