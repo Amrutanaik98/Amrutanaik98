@@ -1,12 +1,15 @@
 ## 🌸 **Amruta Naik**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=440&lines=Data+Engineer;Cloud+Analytics+Enthusiast;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analyst;Data+Scientist" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  <a href="https://komarev.com/ghpvc/?username=Amrutanaik98">
+    <img src="https://komarev.com/ghpvc/?username=Amrutanaik98&label=Profile%20Views&color=E69ACB&style=flat-square" alt="Profile Views" />
+  </a>
   <a href="https://github.com/Amrutanaik98?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=flat&color=9b59b6" alt="github-followers" />
+    <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=flat&color=9b59b6" alt="GitHub Followers" />
   </a>
 </div>
 
@@ -14,12 +17,12 @@
 
 ## 💡 **About Me**
 
-<img align="right" alt="Coding Woman" width="260" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Woman Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **M.S. in Information Systems** @ *Northeastern University* (Expected Dec 2025)  
 💼 2.9 years as a **Data Engineer** at *Amdocs (OSS/BSS systems)*  
-🌐 Passionate about **data architecture & analytics that drive business insight**  
-🚀 Currently exploring: **Apache Airflow**, **Kafka**, **Spark Streaming**, **Data Bricks Workflows**  
+🌐 Passionate about **building scalable data pipelines & cloud architectures**  
+🚀 Currently exploring: **Apache Airflow**, **Terraform**, **Spark**, **AWS S3**, **Streaming Pipelines**  
 💬 Advocate for **women in tech**, continuous learning & inclusive innovation  
 📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
 
@@ -38,15 +41,25 @@
 
 ## 📂 **Featured Projects**
 
+### 🛫 [Flight Data Analysis (Airflow + Terraform + Spark + AWS + AviationStack)](https://github.com/Amrutanaik98/Flight_Data_Analysis)
+- **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, IAM) · Python · AviationStack API  
+- Developed an **end-to-end real-time data pipeline** to collect **live flight data** from the **AviationStack API**.  
+- Used **Airflow DAGs** to orchestrate ingestion, transformation, and storage workflows on AWS.  
+- Leveraged **Spark (PySpark)** for batch & distributed transformations on raw JSON flight data.  
+- Configured **Terraform** to automate infrastructure provisioning (S3 buckets, IAM roles, EC2 compute).  
+- Implemented **data validation & monitoring**, ensuring reliable ingestion of live flight status data.  
+
+---
+
 ### 🍽️ [Food Inspection – Dallas & Chicago](https://github.com/Amrutanaik98/Food_Inspection-Dallas_Chicago_BusinessIntelligence)
-- **Tech Stack:** Azure Data Factory · Databricks (Pyspark) · Snowflake · Power BI · Medallion Architecture · SQL  
+- **Tech Stack:** Azure Data Factory · Databricks (PySpark) · Snowflake · Power BI · Medallion Architecture · SQL  
 - Designed end-to-end ingestion → transformation → visualization pipeline showing inspection trends and risk patterns.
 
 ---
 
 ### 🗽 [NYPD Crime Data Analysis](https://github.com/Amrutanaik98/NYPD_Data_Analysis)
 - **Tech Stack:** Azure Data Factory · Snowflake · Alteryx · Power BI · Star Schema Design · SQL Joins & Views  
-- Built ELT pipeline for 5 M+ records and interactive dashboards to analyze crime distribution across boroughs.
+- Built ELT pipeline for 5M+ records and interactive dashboards to analyze crime distribution across boroughs.
 
 ---
 
@@ -101,9 +114,9 @@
 <div align="center">
   <h3>✨ Areas I Love Collaborating On</h3>
   <p>
-    ⚙️ ETL / ELT Pipelines (Azure Data Factory · Databricks · Airflow) <br>
+    ⚙️ Cloud Data Pipelines (Airflow · Databricks · Terraform · AWS) <br>
     📊 Data Modeling & Visualization (Power BI · Tableau · DAX) <br>
-    ☁️ Cloud Data Solutions (Azure · Snowflake · Synapse Analytics)
+    ☁️ Modern Data Engineering (Azure · Snowflake · Spark Streaming)
   </p>
   <p>🌸 *Empowering analytics through collaboration and curiosity.*</p>
 </div>
@@ -111,4 +124,5 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=hori
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
+</div>
