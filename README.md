@@ -16,8 +16,8 @@
 
 <img align="right" alt="Woman Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **M.S. in Information Systems** @ *Northeastern University* (Expected Dec 2025)  
-💼 **2.9 years as a Data Engineer** at *Amdocs (OSS/BSS systems)*  
+🎓 **M.S. in Information Systems** @ *Northeastern University*  
+💼 **2.9 years as a Data Engineer** at *Amdocs (OSS systems)*  
 🌐 Passionate about **building scalable data pipelines, cloud architectures & AI-driven solutions**  
 🚀 Currently exploring: **Generative AI**, **LLMs**, **RAG systems**, **Prompt Engineering**, **Vector Databases**  
 📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
