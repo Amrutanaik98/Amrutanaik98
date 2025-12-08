@@ -1,13 +1,10 @@
 ## 🌸 **Amruta Chandrakant Naik**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analysts;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analyst;Data+Scientist;GenAI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=Amrutanaik98">
-    <img src="https://komarev.com/ghpvc/?username=Amrutanaik98&label=Profile%20Views&color=E69ACB&style=flat-square" alt="Profile Views" />
-  </a>
   <a href="https://github.com/Amrutanaik98?tab=followers">
     <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=flat&color=9b59b6" alt="GitHub Followers" />
   </a>
@@ -20,12 +17,12 @@
 <img align="right" alt="Woman Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **M.S. in Information Systems** @ *Northeastern University* (Expected Dec 2025)  
-💼 2.9 years as a **Data Engineer** at *Amdocs (OSS/BSS systems)*  
-🌐 Passionate about **building scalable data pipelines & cloud architectures**  
-🚀 Currently exploring: **Apache Airflow**, **Terraform**, **Spark**, **AWS S3**, **Streaming Pipelines**  
+💼 **2.9 years as a Data Engineer** at *Amdocs (OSS/BSS systems)*  
+🌐 Passionate about **building scalable data pipelines, cloud architectures & AI-driven solutions**  
+🚀 Currently exploring: **Generative AI**, **LLMs**, **RAG systems**, **Prompt Engineering**, **Vector Databases**  
 📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
 
-> *“Turning raw data into meaningful impact.”*
+> *"Turning raw data into meaningful impact through engineering and AI."*
 
 ---
 
@@ -40,15 +37,16 @@
 
 ## 📂 **Featured Projects**
 
-### 🛫 [Flight Data Analysis](https://github.com/Amrutanaik98/Flight_Data_Analysis)
-- **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, DynamoDB, IAM, Lambda)
-- Developed an **end-to-end real-time data pipeline** to collect **live flight data** from the **AviationStack API**.  
- 
+### 🛫 [Flight Data Analytics Pipeline](https://github.com/Amrutanaik98/Flight_Data_Analysis)
+- **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, DynamoDB, Lambda, Glue) · Streamlit · Machine Learning
+- **Features:** Real-time data ingestion from Aviation Stack API, streaming with AWS Lambda & SQS, batch processing with AWS Glue, analytics engine with 20+ metrics, interactive Streamlit dashboard with 15+ visualizations, XGBoost & Random Forest ML models for delay prediction, REST API for predictions
+- **Architecture:** Complete end-to-end pipeline with Airflow orchestration on EC2, DynamoDB for real-time queries, S3 data lake, automated reporting, and anomaly detection
+- **Status:** Phase 3 Complete (ML implemented) | Phase 4 In Progress
 
 ---
 
 ### 🍽️ [Food Inspection – Dallas & Chicago](https://github.com/Amrutanaik98/Food_Inspection-Dallas_Chicago_BusinessIntelligence)
-- **Tech Stack:** Azure Data Factory · Databricks (PySpark) · Snowflake · Power BI · Medallion Architecture · SQL   · Alteryx  ·Key Vaults 
+- **Tech Stack:** Azure Data Factory · Databricks (PySpark) · Snowflake · Power BI · Medallion Architecture · SQL · Alteryx · Key Vaults 
 - Designed end-to-end ingestion → transformation → visualization pipeline showing inspection trends and risk patterns.
 
 ---
@@ -83,8 +81,6 @@
 
 ---
 
-
-
 ## 📈 **Activity Graph**
 
 <div align="center">
@@ -93,7 +89,45 @@
 
 ---
 
-## 🤝 **Let’s Connect**
+## 🛠️ **Tech Stack & Expertise**
+
+<div align="center">
+
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+### **Data Processing & Orchestration**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25050?style=flat&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25050?style=flat&logo=apache-spark&logoColor=white)
+
+### **Data Warehousing & Analytics**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+### **Machine Learning & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00BFFF?style=flat)
+![GenAI](https://img.shields.io/badge/GenAI%20%26%20LLMs-FF6B6B?style=flat)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=flat&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+
+### **Frontend & Visualization**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 **Let's Connect**
 
 <div align="center">
   <a href="mailto:amrutanaik1198@gmail.com">
@@ -112,11 +146,12 @@
 <div align="center">
   <h3>✨ Areas I Love Collaborating On</h3>
   <p>
-    ⚙️ Cloud Data Pipelines (Airflow · Databricks · Terraform · AWS) <br>
-    📊 Data Modeling & Visualization (Power BI · Tableau · DAX) <br>
-    ☁️ Modern Data Engineering (Azure · Snowflake · Spark Streaming)
+    ⚙️ Cloud Data Pipelines (Airflow · EC2 · Databricks · Terraform · AWS/Azure) <br>
+    📊 Data Modeling & Visualization (Power BI · Tableau · Streamlit · DAX) <br>
+    ☁️ Modern Data Engineering (Spark · Snowflake · Data Lakes · Streaming) <br>
+    🤖 Generative AI & LLMs (RAG · Prompt Engineering · Vector Databases · Fine-tuning)
   </p>
-  <p>🌸 *Empowering analytics through collaboration and curiosity.*</p>
+  <p>🌸 *Empowering analytics and AI through collaboration, curiosity, and code.*</p>
 </div>
 
 ---
