@@ -37,11 +37,28 @@
 
 ## 📂 **Featured Projects**
 
+### 🤖 [RAG Intelligence System v5.0](https://github.com/Amrutanaik98/RAG_Intelligence_System)
+- **Tech Stack:** Python · FastAPI · Streamlit · Sentence Transformers · HuggingFace LLMs · Pinecone · LangChain · Pandas · NumPy
+- **Architecture:** Complete end-to-end Retrieval-Augmented Generation (RAG) pipeline with semantic search and AI-powered document Q&A
+- **Features:** 
+  - **Data Pipeline:** Multi-source document scraping (Wikipedia, arXiv, HuggingFace), intelligent text chunking (512-char chunks, 50-char overlap), text cleaning & normalization
+  - **Embedding Generation:** Sentence Transformers (all-MiniLM-L6-v2, 384-dim), batch processing with quality analysis, outlier detection, diversity metrics
+  - **Metadata Extraction:** Auto-detection of keywords, topics, difficulty levels, content types using NLP heuristics
+  - **Vector Indexing:** Serverless Pinecone integration for scalable vector storage, semantic search with cosine similarity, hybrid search (semantic + keyword)
+  - **LLM Integration:** Multiple HuggingFace models (Mistral 7B, Zephyr 7B, Phi 2, Llama 2, Intel Neural Chat), context-aware answer generation, summarization & paraphrasing
+  - **Backend API:** FastAPI REST server with Pydantic models, health monitoring, document listing, model management, response formatting
+  - **Frontend UI:** Streamlit interactive dashboard with gradient design, real-time query results, document visualization, performance metrics, example queries
+  - **Quality Assurance:** Embedding validation, vector norm analysis, similarity scoring, response time tracking, comprehensive error handling
+- **Performance:** ~100 docs/min embedding speed, <50ms vector search (Pinecone), 2-5s LLM response, 3-7s total query time
+- **Files:** 12+ Python modules, 500+ lines Streamlit UI, 450+ lines FastAPI backend, Databricks orchestrator notebook
+- **Impact:** Production-ready RAG system enabling intelligent document search and AI-powered Q&A with enterprise-grade architecture
+
+---
+
 ### 🛫 [Flight Data Analytics Pipeline](https://github.com/Amrutanaik98/Flight_Data_Analysis)
 - **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, DynamoDB, Lambda, Glue) · Streamlit · Machine Learning
 - **Features:** Real-time data ingestion from Aviation Stack API, streaming with AWS Lambda & SQS, batch processing with AWS Glue, analytics engine with 20+ metrics, interactive Streamlit dashboard with 15+ visualizations, XGBoost & Random Forest ML models for delay prediction, REST API for predictions
 - **Architecture:** Complete end-to-end pipeline with Airflow orchestration on EC2, DynamoDB for real-time queries, S3 data lake, automated reporting, and anomaly detection
-
 
 ---
 
@@ -153,6 +170,11 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 
+### **Vector Databases & Semantic Search**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=flat)
+![Milvus](https://img.shields.io/badge/Milvus-00B4EF?style=flat)
+
 ### **Analytics & BI**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -163,13 +185,22 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-00BFFF?style=flat)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-00A651?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### **LLMs & Generative AI**
 ![OpenAI](https://img.shields.io/badge/OpenAI%20APIs-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=flat)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-0099FF?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=flat)
+
+### **Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-4A90E2?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -177,6 +208,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### **Data Quality & Profiling**
 ![Data Profiling](https://img.shields.io/badge/Data%20Profiling-4A90E2?style=flat)
@@ -197,8 +229,8 @@
 
 ### **Additional Tools**
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078D4?style=flat)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-4A90E2?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -226,7 +258,7 @@
     ⚙️ Cloud Data Pipelines (Airflow · EC2 · Databricks · Terraform · AWS/Azure) <br>
     📊 Data Modeling & Visualization (Power BI · Tableau · Streamlit · DAX) <br>
     ☁️ Modern Data Engineering (Spark · Snowflake · Data Lakes · Streaming) <br>
-    🤖 Generative AI & LLMs (RAG · Prompt Engineering · Vector Databases · Fine-tuning)
+    🤖 Generative AI & RAG Systems (LLMs · Vector Databases · Prompt Engineering · Semantic Search)
   </p>
   <p>🌸 *Empowering analytics and AI through collaboration, curiosity, and code.*</p>
 </div>
