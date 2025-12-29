@@ -113,12 +113,12 @@
 
 <div align="center">
   <h4>2024 Contributions</h4>
-  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions24.png" width="95%" alt="College Contributions 2024"/>
+  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions24.png" width="95%" alt="University Github Contributions 2025"/>
 </div>
 
 <div align="center">
   <h4></h4>
-  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions.png" width="95%" alt="College Contributions Archive"/>
+  <img src="https://github.com/Amrutanaik98/Amrutanaik98/blob/main/conntributions.png" width="95%" alt="University Github Contributions 2024"/>
 </div>
 
 ---
