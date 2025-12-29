@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Amrutanaik98/Amrutanaik98&count_bg=%239B59B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="GitHub Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Amrutanaik98/Amrutanaik98&count_bg=%239B59B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views" />
 </div>
 
 ---
@@ -117,7 +117,7 @@
 </div>
 
 <div align="center">
-  <h4>Archive Contributions</h4>
+  <h4></h4>
   <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions.png" width="95%" alt="College Contributions Archive"/>
 </div>
 
