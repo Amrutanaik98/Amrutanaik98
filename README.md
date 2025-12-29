@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?color=9b59b6&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Amrutanaik98-profile/visits&logo=github" alt="Profile Views" style="margin-top: 10px;"/>
 </div>
 
----
-
 ## 💡 **About Me**
 
 <img align="right" alt="Woman Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
