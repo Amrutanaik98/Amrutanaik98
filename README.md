@@ -1,10 +1,18 @@
-🌸 Amruta Chandrakant Naik
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analyst;Data+Scientist;GenAI+Enthusiast" alt="Typing SVG" />
+  <h1 style="font-size: 3em; margin-bottom: 0;">🌸 Amruta Chandrakant Naik</h1>
 </div>
+
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Amrutanaik98&count_bg=%239B59B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analyst;Data+Scientist;Machine+Learning+Engineer;GenAI+Enthusiast" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/Amrutanaik98?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=for-the-badge&color=0A66C2" />
+  </a>
+</div>
+
 
 ## 💡 **About Me**
 
