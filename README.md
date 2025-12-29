@@ -1,4 +1,4 @@
-## 🌸 **Amruta Chandrakant Naik**
+
 
 <div align="center">
   <h1 style="font-size: 3em; margin-bottom: 0;">🌸 Amruta Chandrakant Naik</h1>
@@ -11,8 +11,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=9b59b6&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Amrutanaik98-profile/visits&logo=github" alt="Profile Views" style="margin-top: 10px;"/>
 </div>
-
----
 
 ---
 
