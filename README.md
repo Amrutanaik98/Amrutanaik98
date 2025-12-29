@@ -29,8 +29,8 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=rose_pine&hide_border=true" height="180em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=rose_pine&hide_border=true" />
 </div>
 
 ---
@@ -38,20 +38,9 @@
 ## 📂 **Featured Projects**
 
 ### 🤖 [RAG Intelligence System v5.0](https://github.com/Amrutanaik98/RAG_Intelligence_System)
-- **Tech Stack:** Python · FastAPI · Streamlit · Sentence Transformers · HuggingFace LLMs · Pinecone · LangChain · Pandas · NumPy
-- **Architecture:** Complete end-to-end Retrieval-Augmented Generation (RAG) pipeline with semantic search and AI-powered document Q&A
-- **Features:** 
-  - **Data Pipeline:** Multi-source document scraping (Wikipedia, arXiv, HuggingFace), intelligent text chunking (512-char chunks, 50-char overlap), text cleaning & normalization
-  - **Embedding Generation:** Sentence Transformers (all-MiniLM-L6-v2, 384-dim), batch processing with quality analysis, outlier detection, diversity metrics
-  - **Metadata Extraction:** Auto-detection of keywords, topics, difficulty levels, content types using NLP heuristics
-  - **Vector Indexing:** Serverless Pinecone integration for scalable vector storage, semantic search with cosine similarity, hybrid search (semantic + keyword)
-  - **LLM Integration:** Multiple HuggingFace models (Mistral 7B, Zephyr 7B, Phi 2, Llama 2, Intel Neural Chat), context-aware answer generation, summarization & paraphrasing
-  - **Backend API:** FastAPI REST server with Pydantic models, health monitoring, document listing, model management, response formatting
-  - **Frontend UI:** Streamlit interactive dashboard with gradient design, real-time query results, document visualization, performance metrics, example queries
-  - **Quality Assurance:** Embedding validation, vector norm analysis, similarity scoring, response time tracking, comprehensive error handling
-- **Performance:** ~100 docs/min embedding speed, <50ms vector search (Pinecone), 2-5s LLM response, 3-7s total query time
-- **Files:** 12+ Python modules, 500+ lines Streamlit UI, 450+ lines FastAPI backend, Databricks orchestrator notebook
-- **Impact:** Production-ready RAG system enabling intelligent document search and AI-powered Q&A with enterprise-grade architecture
+- **Tech Stack:** FastAPI · Streamlit · Sentence Transformers · HuggingFace LLMs · Pinecone · LangChain · Python · Pandas · NumPy
+- **Features:** Complete end-to-end Retrieval-Augmented Generation system with semantic search and AI-powered document Q&A. Integrates document scraping, intelligent chunking, vector embeddings, and context-aware LLM response generation. Production-ready API with interactive Streamlit dashboard for real-time querying.
+- **Architecture:** Multi-source document ingestion → Text cleaning & chunking → Embedding generation (384-dim vectors) → Pinecone serverless indexing → Hybrid semantic/keyword search → HuggingFace LLM inference (Mistral, Zephyr, Phi models) → FastAPI REST backend → Streamlit interactive frontend with real-time results, metrics, and document visualization.
 
 ---
 
