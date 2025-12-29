@@ -1,10 +1,14 @@
-🌸 Amruta Chandrakant Naik
+## 🌸 **Amruta Chandrakant Naik**
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analyst;Data+Scientist;GenAI+Enthusiast" alt="Typing SVG" />
 </div>
+
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Amrutanaik98&count_bg=%239B59B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=9b59b6&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Amrutanaik98-profile/visits&logo=github" alt="Profile Views"/>
 </div>
+
+---
 
 ## 💡 **About Me**
 
@@ -23,8 +27,8 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=rose_pine&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=rose_pine&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -109,12 +113,12 @@
 
 <div align="center">
   <h4>2024 Contributions</h4>
-  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions24.png" width="95%" alt="University Github Contributions 2025"/>
+  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions24.png" width="95%" alt="College Contributions 2024"/>
 </div>
 
 <div align="center">
-  <h4></h4>
-  <img src="https://github.com/Amrutanaik98/Amrutanaik98/blob/main/conntributions.png" width="95%" alt="University Github Contributions 2024"/>
+  <h4>Archive Contributions</h4>
+  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions.png" width="95%" alt="College Contributions Archive"/>
 </div>
 
 ---
