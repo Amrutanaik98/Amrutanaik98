@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Amrutanaik98">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmrutanaik98&count_bg=%239B59B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="GitHub Views" />
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Amrutanaik98/Amrutanaik98&count_bg=%239B59B6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="GitHub Views" />
 </div>
 
 ---
@@ -111,8 +109,16 @@
 
 <div align="center">
   <p><strong>Contributions from my college GitHub account showcasing early project work and academic collaborations</strong></p>
-  <img src="https://github.com/Amrutanaik98/Amrutanaik98/blob/main/contributions24.png?raw=true" width="100%"/>
-  <img src="https://github.com/Amrutanaik98/Amrutanaik98/blob/main/contributions.png?raw=true" width="100%"/>
+</div>
+
+<div align="center">
+  <h4>2024 Contributions</h4>
+  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions24.png" width="95%" alt="College Contributions 2024"/>
+</div>
+
+<div align="center">
+  <h4>Archive Contributions</h4>
+  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions.png" width="95%" alt="College Contributions Archive"/>
 </div>
 
 ---
