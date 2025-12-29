@@ -107,6 +107,15 @@
 
 ---
 
+## 🎓 **College GitHub Contributions**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amrutanaik98&theme=rose_pine" width="100%"/>
+  <p><em>Contributions from my college GitHub account showcasing early project work and academic collaborations</em></p>
+</div>
+
+---
+
 ## 🛠️ **Tech Stack & Expertise**
 
 <div align="center">
