@@ -15,7 +15,7 @@
 
 ## 💡 **About Me**
 
-<img align="right" alt="Woman Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 🎓 **M.S. in Information Systems** @ *Northeastern University*  
 💼 **2.9 years as a Data Engineer** at *Amdocs Development center India Pvt Ltd*  
