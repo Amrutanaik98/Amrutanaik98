@@ -1,7 +1,5 @@
+<h1 style="font-size: 3em; margin-bottom: 0;">🌸 Amruta Chandrakant Naik</h1>
 
-<div align="center">
-  <h1 style="font-size: 3em; margin-bottom: 0;">🌸 Amruta Chandrakant Naik</h1>
-</div>
 
 <div align="center">
 
@@ -32,8 +30,10 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=rose_pine&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=rose_pine&hide_border=true" />
 </div>
 
 ---
