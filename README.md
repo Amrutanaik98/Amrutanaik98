@@ -41,7 +41,7 @@
 
 ## 📂 **Featured Projects**
 
-### 🤖 [RAG Intelligence System v5.0](https://github.com/Amrutanaik98/RAG_Intelligence_System)
+### 🤖 [RAG Document Intelligence System](https://github.com/Amrutanaik98/RAG_Intelligence_System)
 - **Tech Stack:** FastAPI · Streamlit · Sentence Transformers · HuggingFace LLMs · Pinecone · LangChain · Python · Pandas · NumPy
 - **Features:** Complete end-to-end Retrieval-Augmented Generation system with semantic search and AI-powered document Q&A. Integrates document scraping, intelligent chunking, vector embeddings, and context-aware LLM response generation. Production-ready API with interactive Streamlit dashboard for real-time querying.
 - **Architecture:** Multi-source document ingestion → Text cleaning & chunking → Embedding generation (384-dim vectors) → Pinecone serverless indexing → Hybrid semantic/keyword search → HuggingFace LLM inference (Mistral, Zephyr, Phi models) → FastAPI REST backend → Streamlit interactive frontend with real-time results, metrics, and document visualization.
