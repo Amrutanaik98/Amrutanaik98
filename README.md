@@ -18,7 +18,7 @@
 <img align="right" alt="Woman Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **M.S. in Information Systems** @ *Northeastern University*  
-💼 **2.9 years as a Data Engineer** at *Amdocs (OSS systems)*  
+💼 **2.9 years as a Data Engineer** at *Amdocs Development center India Pvt Ltd*  
 🌐 Passionate about **building scalable data pipelines, cloud architectures & AI-driven solutions**  
 🚀 Currently exploring: **Generative AI**, **LLMs**, **RAG systems**, **Prompt Engineering**, **Vector Databases**  
 📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
@@ -27,13 +27,13 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
+📊 GitHub Stats
 <div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=rose_pine&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117&text_color=c9cacc&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Amrutanaik98&theme=rose-pine&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutanaik98&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117&text_color=c9cacc" alt="Top Languages"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@
 
 ---
 
-## 🎓 **College GitHub Contributions**
+## 🎓 **University GitHub Contributions**
 
 <div align="center">
   <p><strong>Contributions from my college GitHub account showcasing early project work and academic collaborations</strong></p>
