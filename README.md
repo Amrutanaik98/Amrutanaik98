@@ -29,11 +29,9 @@
 
 📊 GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117&text_color=c9cacc&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Amrutanaik98&theme=rose-pine&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutanaik98&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117&text_color=c9cacc" alt="Top Languages"/>
+Show Image
+Show Image
+Show Image
 </div>
 
 ---
