@@ -1,269 +1,187 @@
+<h1 style="font-size: 3em; margin-bottom: 0;">🌸 Amruta Chandrakant Naik</h1>
+
+
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amruta%20Chandrakant%20Naik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E69ACB&center=true&vCenter=true&width=480&lines=Data+Engineer;Data+Analytics+Engineer;Data+Scientist;Machine+Learning+Engineer;" alt="Typing SVG" />
+</div>
 
-<!-- Typing Animation — FIXED: using demolab.com instead of herokuapp.com -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+Scalable+Data+Pipelines+%F0%9F%94%A7;Crafting+Cloud+Architectures+%E2%98%81%EF%B8%8F;Exploring+Generative+AI+%26+RAG+%F0%9F%A4%96;Turning+Data+Into+Impact+%F0%9F%93%8A" alt="Typing SVG" />
+<div align="center">
+  <a href="https://github.com/Amrutanaik98?tab=followers">
+    <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=for-the-badge&color=0A66C2" />
+  </a>
+</div>
 
-<br/>
 
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/amruta-naik-6a9091183">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:amrutanaik1198@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/Amrutanaik98">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/Amrutanaik98?tab=followers">
-  <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=for-the-badge&color=7C3AED" />
-</a>
+## 💡 **About Me**
+
+
+
+🎓 **M.S. in Information Systems** @ *Northeastern University*  
+💼 **3 years as a Data Engineer** at *Amdocs Development center India Pvt Ltd*  
+🌐 Passionate about **building scalable data pipelines, cloud architectures & AI-driven solutions**  
+🚀 Currently exploring: **Generative AI**, **LLMs**, **RAG systems**, **Prompt Engineering**, **Vector Databases**  
+📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
+
+> *"Turning raw data into meaningful impact through engineering and AI."*
+
+---
+
+📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/Amrutanaik98">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&count_private=true&theme=rose_pine&hide_border=true" />
+  </a>
+  <a href="https://github.com/Amrutanaik98">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amrutanaik98&theme=rose_pine&hide_border=true&layout=compact" />
+  </a>
+</div>
+
+---
+
+## 📂 **Featured Projects**
+
+### 🤖 [RAG Document Intelligence System](https://github.com/Amrutanaik98/RAG-Document-Intelligence-System)
+- **Tech Stack:** FastAPI · Streamlit · Sentence Transformers · HuggingFace LLMs · Pinecone · LangChain · Python · Pandas · NumPy · DataBricks
+- **Features:** Complete end-to-end Retrieval-Augmented Generation system with semantic search and AI-powered document Q&A. Integrates document scraping, intelligent chunking, vector embeddings, and context-aware LLM response generation. Production-ready API with interactive Streamlit dashboard for real-time querying.
+- **Architecture:** Multi-source document ingestion → Text cleaning & chunking → Embedding generation (384-dim vectors) → Pinecone serverless indexing → Hybrid semantic/keyword search → HuggingFace LLM inference (Mistral, Zephyr, Phi models) → FastAPI REST backend → Streamlit interactive frontend with real-time results, metrics, and document visualization.
+
+---
+
+### 🛫 [Flight Data Analytics Pipeline](https://github.com/Amrutanaik98/Flight_Data_Analysis)
+- **Tech Stack:** Apache Airflow · Apache Spark (PySpark) · Terraform · AWS (S3, EC2, DynamoDB, Lambda, Glue) · Streamlit · Machine Learning
+- **Features:** Real-time data ingestion from Aviation Stack API, streaming with AWS Lambda & SQS, batch processing with AWS Glue, analytics engine with 20+ metrics, interactive Streamlit dashboard with 15+ visualizations, XGBoost & Random Forest ML models for delay prediction, REST API for predictions
+- **Architecture:** Complete end-to-end pipeline with Airflow orchestration on EC2, DynamoDB for real-time queries, S3 data lake, automated reporting, and anomaly detection
+
+---
+
+### 🍽️ [Food Inspection – Dallas & Chicago](https://github.com/Amrutanaik98/Food_Inspection-Dallas_Chicago_BusinessIntelligence)
+- **Tech Stack:** Azure Data Factory · Databricks (PySpark) · Snowflake · Power BI · Medallion Architecture · SQL · Alteryx · Key Vaults
+- **Features:** End-to-end ELT pipeline ingesting food inspection data, medallion architecture (bronze/silver/gold layers), inspection trend analysis, risk pattern identification, interactive Power BI dashboards with drill-down capabilities, automated data quality checks
+- **Architecture:** Azure Data Factory orchestration, Databricks Spark jobs for transformation, Snowflake data warehouse, dynamic Power BI reports with KPIs, data lineage tracking, scheduled incremental loads
+- **Impact:** Identified critical food safety trends across 2 major cities, processed 100K+ inspection records with 95% accuracy
+
+---
+
+### 🎬 [IMDb Business Intelligence](https://github.com/Amrutanaik98/IMDb_Business_Intelligence)
+- **Tech Stack:** SQL · Power BI · DAX · ETL · Data Modeling · Azure Data Factory · Snowflake · Alteryx
+- **Features:** Comprehensive BI dashboards with trend analysis, genre performance metrics, actor/director rankings, rating evolution visualizations, complex DAX calculations for moving averages, sentiment analysis on reviews, interactive slicers and filters
+- **Architecture:** Azure Data Factory for data extraction, Snowflake star schema design with fact/dimension tables, Power BI semantic models with calculated columns, Alteryx for data quality validation, automated refresh schedules
+- **Insights:** Tracked 50K+ movies, identified top-performing genres by decade, analyzed career trajectories of 10K+ professionals
+
+---
+
+### 🗽 [NYPD Crime Data Analysis](https://github.com/Amrutanaik98/NYPD_Data_Analysis)
+- **Tech Stack:** Azure Data Factory · Snowflake · Alteryx · Power BI · Star Schema Design · SQL
+- **Features:** Large-scale crime data pipeline for 5M+ records, borough-level crime distribution analysis, temporal trend analysis, crime type classification, geospatial visualizations, anomaly detection for unusual crime patterns, automated monthly reporting
+- **Architecture:** Azure Data Factory for reliable data ingestion, normalized star schema in Snowflake, pre-aggregated views for performance, Power BI dashboards with drill-through capabilities, Alteryx workflows for data cleansing, scheduled alerts for crime spikes
+- **Impact:** Enabled crime analysis across 5 NYC boroughs, identified seasonal trends, reduced query time by 70% with optimized schema
+
+---
+
+### 🌾 [Climate Impact on Global Crop Yields](https://github.com/Amrutanaik98/Climate_Impact_Analysis)
+- **Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter Notebooks
+- **Features:** Regression analysis on 60 years of climate-agriculture data, correlation studies between temperature/precipitation and yields, time-series forecasting models, statistical hypothesis testing, multivariate analysis, data visualization with heatmaps and scatter plots
+- **Architecture:** Pandas dataframes for data manipulation, NumPy for numerical computations, Scikit-learn for ML models (Linear Regression, Ridge/Lasso), exploratory data analysis with Matplotlib/Seaborn, Jupyter for reproducible research
+- **Insights:** Discovered strong correlations between climate variables and crop yields, built predictive models with R² > 0.85, identified climate risk zones for agricultural planning
+
+---
+
+### 🏪 [Store Management System](https://github.com/Amrutanaik98/Store_Management_System)
+- **Tech Stack:** Oracle SQL · PL/SQL · Triggers · Views · Sequences · Constraints · Access Control
+- **Features:** Normalized OLTP database with 15+ tables, inventory management with automatic stock alerts, customer transaction tracking, sales reporting with stored procedures, role-based access control, referential integrity constraints, audit trails
+- **Architecture:** Entity-relationship model design, PL/SQL triggers for business logic enforcement, views for reporting layer abstraction, sequences for auto-incrementing IDs, complex joins for multi-table queries, transaction management with ACID properties
+- **Capabilities:** Tracks 1000+ products, manages 500+ customers, generates daily sales reports, enforces data integrity across all operations
+
+---
+
+### 🎓 [NEU Grade Calculator](https://github.com/Amrutanaik98/NEUGradeCalculator)
+- **Tech Stack:** Java · JavaFX · OOP Design Patterns · FXML · SceneBuilder · Model-View-Controller
+- **Features:** Dynamic GPA/CGPA calculation with multiple grading scales, course grade input interface, transcript visualization, cumulative statistics, credit hour weighting, grade history tracking, exportable grade reports
+- **Architecture:** MVC design pattern for separation of concerns, JavaFX for responsive GUI, FXML for declarative UI layout, OOP principles with encapsulation and abstraction, event-driven programming for user interactions
+- **Functionality:** Supports multiple grading systems, instant calculation updates, intuitive user interface, data persistence, real-time cumulative GPA display
+
+---
+
+## 📈 **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrutanaik98&theme=tokyo-night" width="100%"/>
+</div>
+
+---
+
+## 🎓 **University GitHub Contributions**
+
+<div align="center">
+  <p><strong>Contributions from my college GitHub account showcasing early project work and academic collaborations</strong></p>
+</div>
+
+<div align="center">
+  <h4>2024 Contributions</h4>
+  <img src="https://raw.githubusercontent.com/Amrutanaik98/Amrutanaik98/main/contributions24.png" width="95%" alt="University Github Contributions 2025"/>
+</div>
+
+<div align="center">
+  <h4></h4>
+  <img src="https://github.com/Amrutanaik98/Amrutanaik98/blob/main/conntributions.png" width="95%" alt="University Github Contributions 2024"/>
+</div>
+
+---
+
+## 🛠️ **Tech Stack & Expertise**
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25050?style=flat&logo=apache-spark&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
+| **Big Data** | ![Apache Spark](https://img.shields.io/badge/Spark-E25050?style=flat&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-EB6E20?style=flat&logo=databricks&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-EB6E20?style=flat) |
+| **Data Warehousing** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) |
+| **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) |
+| **BI & Analytics** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| **LLMs & AI** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=flat&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat) ![Sentence Transformers](https://img.shields.io/badge/S.Transformers-0099FF?style=flat) |
+| **Vector Databases** | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=flat) ![Milvus](https://img.shields.io/badge/Milvus-00B4EF?style=flat) |
+| **ML & Data Science** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-00BFFF?style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat) |
+| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
+| **Data Engineering** | ![Medallion Architecture](https://img.shields.io/badge/Medallion%20Arch-EB6E20?style=flat) ![Star Schema](https://img.shields.io/badge/Star%20Schema-336791?style=flat) ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-4A90E2?style=flat) |
 
 </div>
 
 ---
 
-## 🚀 &nbsp;About Me
-
-```yaml
-Name:       Amruta Chandrakant Naik
-Education:  M.S. Information Systems @ Northeastern University
-Experience: 2.9 years as Data Engineer @ Amdocs Development Center India
-Location:   Boston, MA
-```
-
-- 🔭 &nbsp;**Currently building:** Scalable data pipelines, cloud architectures & AI-driven solutions
-- 🌱 &nbsp;**Exploring:** Generative AI · LLMs · RAG Systems · Prompt Engineering · Vector Databases
-- 💬 &nbsp;**Ask me about:** Data Engineering, Cloud (AWS/Azure), Spark, Snowflake, ML Pipelines
-- ⚡ &nbsp;**Fun fact:** I've processed **5M+** records across multiple analytics projects
-
-> _"Turning raw data into meaningful impact through engineering and AI."_
-
----
-
-## 🛠️ &nbsp;Tech Arsenal
+## 🤝 **Let's Connect**
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="150"><br><b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,java,r&theme=dark" /><br>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25050?style=flat-square&logo=apache-spark&logoColor=white" /><br><br>
-</td>
-<td align="center" width="150"><br><b>Cloud</b><br><br>
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /><br><br>
-</td>
-<td align="center" width="150"><br><b>Big Data</b><br><br>
-<img src="https://img.shields.io/badge/Spark-E25050?style=flat-square&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Databricks-EB6E20?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square" /><br><br>
-</td>
-<td align="center" width="150"><br><b>Databases</b><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /><br><br>
-</td>
-</tr>
-<tr>
-<td align="center"><br><b>AI & LLMs</b><br><br>
-<img src="https://img.shields.io/badge/HuggingFace-FFD700?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white" /><br><br>
-</td>
-<td align="center"><br><b>ML & DS</b><br><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-00BFFF?style=flat-square" /><br><br>
-</td>
-<td align="center"><br><b>BI & Viz</b><br><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /><br><br>
-</td>
-<td align="center"><br><b>DevOps</b><br><br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /><br><br>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏗️ &nbsp;Featured Projects
-
-<div align="center">
-
-<!-- Project Cards — Using pin cards for visual appeal -->
-<a href="https://github.com/Amrutanaik98/RAG-Document-Intelligence-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=RAG-Document-Intelligence-System&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Amrutanaik98/Flight_Data_Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=Flight_Data_Analysis&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Amrutanaik98/Food_Inspection-Dallas_Chicago_BusinessIntelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=Food_Inspection-Dallas_Chicago_BusinessIntelligence&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Amrutanaik98/NYPD_Data_Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=NYPD_Data_Analysis&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary>🤖 <b>RAG Document Intelligence System</b> — End-to-End AI-Powered Document Q&A</summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | FastAPI · Streamlit · Sentence Transformers · HuggingFace LLMs · Pinecone · LangChain |
-| **What it does** | Semantic search + context-aware LLM responses over ingested documents |
-| **Architecture** | Document ingestion → Chunking → 384-dim embeddings → Pinecone indexing → Hybrid search → LLM inference (Mistral/Zephyr/Phi) → FastAPI + Streamlit frontend |
-| **Highlights** | Production-ready REST API, real-time querying, document visualization dashboard |
-
-</details>
-
-<details>
-<summary>🛫 <b>Flight Data Analytics Pipeline</b> — Real-Time Aviation Intelligence</summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | Apache Airflow · PySpark · Terraform · AWS (S3, EC2, DynamoDB, Lambda, Glue) · Streamlit |
-| **What it does** | Real-time ingestion from Aviation Stack API with ML-powered delay prediction |
-| **Architecture** | Airflow on EC2 → Lambda & SQS streaming → Glue batch → DynamoDB + S3 data lake → Streamlit dashboard |
-| **Highlights** | 20+ analytics metrics, 15+ visualizations, XGBoost & Random Forest models, anomaly detection |
-
-</details>
-
-<details>
-<summary>🍽️ <b>Food Inspection Analytics — Dallas & Chicago</b> — Public Health BI Pipeline</summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | Azure Data Factory · Databricks (PySpark) · Snowflake · Power BI · Medallion Architecture |
-| **What it does** | ELT pipeline for food inspection trends & risk pattern identification |
-| **Architecture** | ADF orchestration → Databricks Spark → Snowflake warehouse → Power BI dashboards |
-| **Impact** | Processed **100K+** inspection records with **95% accuracy** across 2 major cities |
-
-</details>
-
-<details>
-<summary>🗽 <b>NYPD Crime Data Analysis</b> — Large-Scale Public Safety Analytics</summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | Azure Data Factory · Snowflake · Alteryx · Power BI · Star Schema |
-| **What it does** | Crime distribution, temporal trends, geospatial analysis & anomaly detection |
-| **Architecture** | ADF ingestion → Snowflake star schema → Alteryx cleansing → Power BI drill-through dashboards |
-| **Impact** | Analyzed **5M+** records across 5 NYC boroughs, **70% query time reduction** with optimized schema |
-
-</details>
-
-<details>
-<summary>🌾 <b>Climate Impact on Global Crop Yields</b> — Predictive Analytics & Research</summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
-| **What it does** | Regression analysis on 60 years of climate-agriculture data with forecasting |
-| **Architecture** | Pandas → NumPy computations → Scikit-learn ML → Jupyter notebooks |
-| **Impact** | Predictive models with **R² > 0.85**, identified climate risk zones for agricultural planning |
-
-</details>
-
-<details>
-<summary>🎬 <b>IMDb Business Intelligence</b> — Entertainment Industry Analytics</summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | SQL · Power BI · DAX · Azure Data Factory · Snowflake · Alteryx |
-| **What it does** | Trend analysis, genre performance, actor/director rankings, sentiment analysis |
-| **Architecture** | ADF extraction → Snowflake star schema → Power BI semantic models → Alteryx validation |
-| **Impact** | Tracked **50K+ movies**, analyzed career trajectories of **10K+ professionals** |
-
-</details>
-
-<details>
-<summary>🏪 <b>Store Management System</b> — Enterprise OLTP Database</summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | Oracle SQL · PL/SQL · Triggers · Views · Sequences |
-| **What it does** | Inventory management, transaction tracking, sales reporting with RBAC |
-| **Impact** | Tracks **1000+ products**, **500+ customers**, daily automated reports |
-
-</details>
-
----
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutanaik98&theme=tokyonight&hide_border=true&layout=compact&border_radius=12&bg_color=0D1117" />
-
-<br/><br/>
-
-<!-- Streak Stats — FIXED: using streak-stats.demolab.com instead of herokuapp.com -->
-<img src="https://streak-stats.demolab.com/?user=Amrutanaik98&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amrutanaik98&theme=tokyo-night&hide_border=true&bg_color=0D1117&radius=12" width="95%"/>
-
-</div>
-
----
-
-## ✨ &nbsp;What I Love Working On
-
-<div align="center">
-
-```
-⚙️  Cloud Data Pipelines    →  Airflow · EC2 · Databricks · Terraform · AWS/Azure
-📊  Data Modeling & Viz      →  Power BI · Tableau · Streamlit · DAX
-☁️  Modern Data Engineering  →  Spark · Snowflake · Data Lakes · Streaming
-🤖  Gen AI & RAG Systems     →  LLMs · Vector DBs · Prompt Engineering · Semantic Search
-```
-
+  <a href="mailto:amrutanaik1198@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amruta-naik-6a9091183">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Amrutanaik98">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
+  <h3>✨ Areas I Love Collaborating On</h3>
+  <p>
+    ⚙️ Cloud Data Pipelines (Airflow · EC2 · Databricks · Terraform · AWS/Azure) <br>
+    📊 Data Modeling & Visualization (Power BI · Tableau · Streamlit · DAX) <br>
+    ☁️ Modern Data Engineering (Spark · Snowflake · Data Lakes · Streaming) <br>
+    🤖 Generative AI & RAG Systems (LLMs · Vector Databases · Prompt Engineering · Semantic Search)
+  </p>
+  <p>🌸 *Empowering analytics and AI through collaboration, curiosity, and code.*</p>
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+---
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Amrutanaik98&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
 </div>
