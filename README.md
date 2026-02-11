@@ -3,8 +3,8 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amruta%20Chandrakant%20Naik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+Scalable+Data+Pipelines+%F0%9F%94%A7;Crafting+Cloud+Architectures+%E2%98%81%EF%B8%8F;Exploring+Generative+AI+%26+RAG+%F0%9F%A4%96;Turning+Data+Into+Impact+%F0%9F%93%8A" alt="Typing SVG" />
+<!-- Typing Animation — FIXED: using demolab.com instead of herokuapp.com -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+Scalable+Data+Pipelines+%F0%9F%94%A7;Crafting+Cloud+Architectures+%E2%98%81%EF%B8%8F;Exploring+Generative+AI+%26+RAG+%F0%9F%A4%96;Turning+Data+Into+Impact+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 🚀 &nbsp;About Me
 
 ```yaml
 Name:       Amruta Chandrakant Naik
@@ -53,21 +53,21 @@ Location:   Boston, MA
 <td align="center" width="150"><br><b>Languages</b><br><br>
 <img src="https://skillicons.dev/icons?i=python,java,r&theme=dark" /><br>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25050?style=flat-square&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25050?style=flat-square&logo=apache-spark&logoColor=white" /><br><br>
 </td>
 <td align="center" width="150"><br><b>Cloud</b><br><br>
 <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /><br><br>
 </td>
 <td align="center" width="150"><br><b>Big Data</b><br><br>
 <img src="https://img.shields.io/badge/Spark-E25050?style=flat-square&logo=apache-spark&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Databricks-EB6E20?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square" />
+<img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square" /><br><br>
 </td>
 <td align="center" width="150"><br><b>Databases</b><br><br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /><br><br>
 </td>
 </tr>
 <tr>
@@ -75,23 +75,23 @@ Location:   Boston, MA
 <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=flat-square&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /><br>
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white" /><br><br>
 </td>
 <td align="center"><br><b>ML & DS</b><br><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/XGBoost-00BFFF?style=flat-square" /><br><br>
 </td>
 <td align="center"><br><b>BI & Viz</b><br><br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /><br><br>
 </td>
 <td align="center"><br><b>DevOps</b><br><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /><br><br>
 </td>
 </tr>
 </table>
@@ -100,28 +100,25 @@ Location:   Boston, MA
 
 ---
 
-## 🚀 &nbsp;Featured Projects
+## 🏗️ &nbsp;Featured Projects
 
 <div align="center">
 
-<!-- Project 1 -->
+<!-- Project Cards — Using pin cards for visual appeal -->
 <a href="https://github.com/Amrutanaik98/RAG-Document-Intelligence-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=RAG-Document-Intelligence-System&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=RAG-Document-Intelligence-System&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
 </a>&nbsp;&nbsp;
-<!-- Project 2 -->
 <a href="https://github.com/Amrutanaik98/Flight_Data_Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=Flight_Data_Analysis&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=Flight_Data_Analysis&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
 </a>
 
 <br/><br/>
 
-<!-- Project 3 -->
 <a href="https://github.com/Amrutanaik98/Food_Inspection-Dallas_Chicago_BusinessIntelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=Food_Inspection-Dallas_Chicago_BusinessIntelligence&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=Food_Inspection-Dallas_Chicago_BusinessIntelligence&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
 </a>&nbsp;&nbsp;
-<!-- Project 4 -->
 <a href="https://github.com/Amrutanaik98/NYPD_Data_Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=NYPD_Data_Analysis&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrutanaik98&repo=NYPD_Data_Analysis&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" />
 </a>
 
 </div>
@@ -129,7 +126,7 @@ Location:   Boston, MA
 <br/>
 
 <details>
-<summary><b>🤖 RAG Document Intelligence System</b> — End-to-End AI-Powered Document Q&A</summary>
+<summary>🤖 <b>RAG Document Intelligence System</b> — End-to-End AI-Powered Document Q&A</summary>
 <br/>
 
 | | |
@@ -142,7 +139,7 @@ Location:   Boston, MA
 </details>
 
 <details>
-<summary><b>🛫 Flight Data Analytics Pipeline</b> — Real-Time Aviation Intelligence</summary>
+<summary>🛫 <b>Flight Data Analytics Pipeline</b> — Real-Time Aviation Intelligence</summary>
 <br/>
 
 | | |
@@ -155,7 +152,7 @@ Location:   Boston, MA
 </details>
 
 <details>
-<summary><b>🍽️ Food Inspection Analytics — Dallas & Chicago</b> — Public Health BI Pipeline</summary>
+<summary>🍽️ <b>Food Inspection Analytics — Dallas & Chicago</b> — Public Health BI Pipeline</summary>
 <br/>
 
 | | |
@@ -168,7 +165,7 @@ Location:   Boston, MA
 </details>
 
 <details>
-<summary><b>🗽 NYPD Crime Data Analysis</b> — Large-Scale Public Safety Analytics</summary>
+<summary>🗽 <b>NYPD Crime Data Analysis</b> — Large-Scale Public Safety Analytics</summary>
 <br/>
 
 | | |
@@ -181,7 +178,7 @@ Location:   Boston, MA
 </details>
 
 <details>
-<summary><b>🌾 Climate Impact on Global Crop Yields</b> — Predictive Analytics & Research</summary>
+<summary>🌾 <b>Climate Impact on Global Crop Yields</b> — Predictive Analytics & Research</summary>
 <br/>
 
 | | |
@@ -194,7 +191,7 @@ Location:   Boston, MA
 </details>
 
 <details>
-<summary><b>🎬 IMDb Business Intelligence</b> — Entertainment Industry Analytics</summary>
+<summary>🎬 <b>IMDb Business Intelligence</b> — Entertainment Industry Analytics</summary>
 <br/>
 
 | | |
@@ -207,7 +204,7 @@ Location:   Boston, MA
 </details>
 
 <details>
-<summary><b>🏪 Store Management System</b> — Enterprise OLTP Database</summary>
+<summary>🏪 <b>Store Management System</b> — Enterprise OLTP Database</summary>
 <br/>
 
 | | |
@@ -230,7 +227,8 @@ Location:   Boston, MA
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutanaik98&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" />
+<!-- Streak Stats — FIXED: using streak-stats.demolab.com instead of herokuapp.com -->
+<img src="https://streak-stats.demolab.com/?user=Amrutanaik98&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" />
 
 <br/><br/>
 
