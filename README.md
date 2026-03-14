@@ -21,7 +21,7 @@
 💼 **3 years as a Data Engineer** at *Amdocs Development center India Pvt Ltd*  
 🌐 Passionate about **building scalable data pipelines, cloud architectures & AI-driven solutions**  
 🚀 Currently exploring: **Generative AI**, **LLMs**, **RAG systems**, **Prompt Engineering**, **Vector Databases**  
-📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183)
+📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183) ·[Portfolio](https://amrutanaik98.github.io/#/)
 
 > *"Turning raw data into meaningful impact through engineering and AI."*
 
