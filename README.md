@@ -33,7 +33,7 @@
     <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Amrutanaik98&show_icons=true&count_private=true&theme=rose_pine&hide_border=true" />
   </a>
   <a href="https://github.com/Amrutanaik98">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amrutanaik98&theme=rose_pine&hide_border=true&layout=compact" />
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amrutanaik98&theme=rose_pine&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
   </a>
 </div>
 
