@@ -46,7 +46,8 @@
 * **Tech Stack:** Python · Apache Kafka · Apache Spark · Airflow · FastAPI · Streamlit · XGBoost · PyTorch · MLflow · Groq LLM · ChromaDB · Docker · Terraform · GCP · PostgreSQL
 * **Features:** Production-style climate intelligence platform ingesting real-time weather data from **80+ cities across 6 continents**. Uses **Spark Structured Streaming** to process data and machine learning models (**XGBoost classification and LSTM forecasting**) to predict extreme weather events. Includes AI-powered natural language weather insights.
 * **Architecture:** OpenWeatherMap API → Kafka Streaming (Avro + Schema Registry) → Spark Structured Streaming → Medallion Data Lake (Bronze/Silver/Gold) → PostgreSQL Star Schema Warehouse → ML Models (XGBoost + LSTM) → FastAPI REST API → Streamlit Dashboard → Groq LLM for anomaly explanation, weather reports, and RAG chatbot.
-* **Impact:** Enables real-time climate monitoring, anomaly detection, and explainable AI insights through interactive dashboards and automated weather intelligence reports.
+
+---
 
 ### 🤖 [RAG Document Intelligence System](https://github.com/Amrutanaik98/RAG-Document-Intelligence-System)
 - **Tech Stack:** FastAPI · Streamlit · Sentence Transformers · HuggingFace LLMs · Pinecone · LangChain · Python · Pandas · NumPy · DataBricks
