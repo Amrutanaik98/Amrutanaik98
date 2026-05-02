@@ -144,7 +144,7 @@
 | **Category** | **Technologies** |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25050?style=flat&logo=apache-spark&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) |
 | **Big Data** | ![Apache Spark](https://img.shields.io/badge/Spark-E25050?style=flat&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-EB6E20?style=flat&logo=databricks&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-EB6E20?style=flat) |
 | **Data Warehousing** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) |
 | **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) |
@@ -180,7 +180,7 @@
 <div align="center">
   <h3>✨ Areas I Love Collaborating On</h3>
   <p>
-    ⚙️ Cloud Data Pipelines (Airflow · EC2 · Databricks · Terraform · AWS/Azure) <br>
+    ⚙️ Cloud Data Pipelines (Airflow · EC2 · Databricks · Terraform · AWS/Azure/GCP) <br>
     📊 Data Modeling & Visualization (Power BI · Tableau · Streamlit · DAX) <br>
     ☁️ Modern Data Engineering (Spark · Snowflake · Data Lakes · Streaming) <br>
     🤖 Generative AI & RAG Systems (LLMs · Vector Databases · Prompt Engineering · Semantic Search)
