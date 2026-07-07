@@ -7,6 +7,21 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/amruta-naik-6a9091183">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://amrutanaik98.github.io/#/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:amrutanaik1198@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/Amrutanaik98?tab=followers">
     <img src="https://img.shields.io/github/followers/Amrutanaik98?label=Followers&style=for-the-badge&color=0A66C2" />
   </a>
@@ -18,7 +33,7 @@
 
 
 🎓 **M.S. in Information Systems** @ *Northeastern University*  
-💼 **3 years as a Data Engineer** at *Amdocs*  
+💼 **2+ years as a Data Engineer** at *Amdocs*  
 🌐 Passionate about **building scalable data pipelines, cloud architectures & AI-driven solutions**  
 🚀 Currently exploring: **Generative AI**, **LLMs**, **RAG systems**, **Prompt Engineering**, **Vector Databases**  
 📫 **Email:** [amrutanaik1198@gmail.com](mailto:amrutanaik1198@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amruta-naik-6a9091183) · [Portfolio](https://amrutanaik98.github.io/#/)
@@ -172,6 +187,12 @@
   </a>
   <a href="https://github.com/Amrutanaik98">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://amrutanaik98.github.io/#/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
 
