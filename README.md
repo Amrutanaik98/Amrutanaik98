@@ -22,7 +22,7 @@
 ## 💡 About Me
 
 🎓 **M.S. in Information Systems** @ *Northeastern University*
-💼 **2+ years as a Data Engineer** at *Amdocs*
+💼 **3 years as a Data Engineer** at *Amdocs*
 🌐 I build scalable data pipelines and cloud data platforms, and I'm working with LLMs, RAG systems, and vector databases.
 
 ---
